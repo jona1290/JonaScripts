@@ -181,7 +181,7 @@
 	"storageProfile": {
 	"imageReference": {
 	"publisher": "Canonical",
-	"offer": "RHEUbuntuServer",
+	"offer": "buntuServer",
 	"sku": "18.04-LTS",
 	"version": "latest"
 	},
